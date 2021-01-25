@@ -10,4 +10,4 @@ v1.1 fix bug array kelas <br />
 v1.2 fix handle all matkul <br />
 
 ### Thanks
-Big thanks <a href="github.com/bayuaz">Muhammad bayu juhri 
+Big thanks <a href="https://github.com/bayuaz">Muhammad bayu juhri 
