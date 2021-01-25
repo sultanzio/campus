@@ -1,0 +1,6 @@
+/.well-known/
+.htaccess
+cookie.txt
+error_log
+/cgi-bin/
+.bak
